@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BF998
+K N-Channel MOSFET Dual Gate
+F http://www.onsemi.com/pub_link/Collateral/EN4423-D.PDF
+$ENDCMP
+#
 $CMP EDR101A0500
 D Standex Meder MS reed relay, SPST, Closing Contact
 K Single Pole Reed Relay SPST
